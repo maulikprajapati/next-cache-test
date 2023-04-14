@@ -17,7 +17,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            Hello Test cache app&nbsp;
+            Get started by editing&nbsp;
             <code className={styles.code}>src/pages/index.tsx</code>
           </p>
           <div>
@@ -39,7 +39,7 @@ export default function Home() {
           </div>
         </div>
 
-        <div className={styles.center} style={{backgroundColor: 'green', padding: "10px"}}>
+        <div className={styles.center}>
           <Image
             className={styles.logo}
             src="/next.svg"
